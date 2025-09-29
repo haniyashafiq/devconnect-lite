@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "user_id": 1,
+    "title": "AI Chatbot",
+    "description": "A chatbot using Node.js & React",
+    "tech_stack": "Node.js, React, Express, MySQL",
+    "budget": "1000.00",
+    "status": "open"
+  }
+]
